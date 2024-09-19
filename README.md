@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marçal Nebot (@mnebot)
 - 👀 I’m interested in DevOps and Agile
-- 🌱 I’m currently learning Atlantis (a CI tool for Terraform)
+- 🌱 I’m currently learning Amazon Q Business use cases
 - 💞️ I’m looking to collaborate on Raspberry PI and Marty the Robot Python implementations
 - 📫 How to reach me mnebot@gmail.com
 
