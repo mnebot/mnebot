@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marçal Nebot (@mnebot)
 - 👀 I’m interested in DevOps and Agile
-- 🌱 I’m currently learning how to harness AI agents with KIRO
+- 🌱 I’m currently learning how to harness AI agents with KIRO and Cursor
 - 💞️ I’m looking to collaborate on Raspberry PI and Marty the Robot Python implementations
 - 📫 How to reach me mnebot@gmail.com 
 
